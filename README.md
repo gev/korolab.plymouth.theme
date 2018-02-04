@@ -1,0 +1,1 @@
+#korolab.plymouth.theme

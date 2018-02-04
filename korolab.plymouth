@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Korolab
+Description=A Korolab panel splash screen
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/korolab
+ScriptFile=/usr/share/plymouth/themes/korolab/korolab.script
